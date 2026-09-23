@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "catalog_version": 1,
+  "goal_count": 602,
+  "barter_count": 143,
+  "shop_count": 459,
+  "content_sha256": "e369f68b0b0da1f80ace69b1e7e83eb231ab843676b355d1ad0378907b5710ad",
+  "key": "ProductId",
+  "bundle_format": 1,
+  "min_app_version": "0.5.6",
+  "files_sha256": {
+    "README.txt": "6fda0a9d41f8fe5b4dfa3660da576146a42e2f507a269ffc67538b128639ace1",
+    "currency_name_map.json": "bbd8cc1f77ca06b9e3b29b4b56463abd15d65c10b7776c6c3792e99421baeea9",
+    "npcshop_catalog_flat.csv": "666fcd8cccf08de5cea2bfef94233c242500a54e5ba17fd70c1b10739a6d3579",
+    "npcshop_lifehelper.json": "2a08f6f489d5cf679cb1b5d35e53f251e6a9459797d0c3edd086cff129f0fd87",
+    "npcshop_product_presets_enriched.json": "9ef7fd898c3fea5defd8b997011d909225f8a79effafcb8351a52cff34c16436",
+    "npcshop_products_enriched.json": "4225e56deba58e109e75667915728951293133549640c5c89b7cda517584b9f1",
+    "reward_name_map.json": "1c482b0ceffbacafcb7a3cf137717fc546445d0bc6e021149342907a18bb9f64",
+    "verification.json": "38fa53d622a4c16e8cabccc0f5b0f73ef17b09fde9761723c937986cf6d0c3e0"
+  },
+  "download_url": "https://raw.githubusercontent.com/nunumaaam/MULGYO/main/catalog_v1.zip",
+  "bundle_sha256": "2626d80ca6e419e0d594d9ca9a32e6e2ccc21cf92d5167940a522f54fc3bc05c",
+  "bundle_size": 974227
+}
